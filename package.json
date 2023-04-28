@@ -1,0 +1,19 @@
+{
+  "name": "harvest-dashboard-reporting",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ragnaroknyc/harvest-dashboard-reporting.git"
+  },
+  "author": "Isaac Batista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ragnaroknyc/harvest-dashboard-reporting/issues"
+  },
+  "homepage": "https://github.com/ragnaroknyc/harvest-dashboard-reporting#readme"
+}
